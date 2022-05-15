@@ -1,0 +1,15 @@
+
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+# QT_QPA_PLATFORMTHEME=qt5ct
+# BROWSER=firefox
+
+export QT_IM_MODULE=ibus
+export GTK_IM_MODULE=ibus
+export XMODIFIERS=@im=ibus
+export QT4_IM_MODULE=ibus
+export CLUTTER_IM_MODULE=ibus
+export GLFW_IM_MODULE=ibus

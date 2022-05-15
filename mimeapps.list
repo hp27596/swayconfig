@@ -1,0 +1,31 @@
+[Default Applications]
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+text/html=google-chrome.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-6ENYD1.desktop
+x-scheme-handler/mailto=google-chrome.desktop
+x-scheme-handler/torrent=org.qbittorrent.qBittorrent.desktop
+text/cache-manifest=nvim.desktop
+text/calendar=nvim.desktop
+text/css=nvim.desktop
+image/jpeg=org.xfce.ristretto.desktop
+image/png=org.xfce.ristretto.desktop
+inode/directory=thunar.desktop
+
+[Added Associations]
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+audio/mpeg=vlc.desktop;
+video/mp4=vlc.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-07YRB1.desktop;userapp-Telegram Desktop-6ENYD1.desktop;
+text/plain=nvim.desktop;
+application/x-desktop=vim.desktop;
+text/cache-manifest=nvim.desktop;
+text/calendar=nvim.desktop;
+text/css=nvim.desktop;
+video/x-matroska=mpv.desktop;vlc.desktop;
+application/x-ms-dos-executable=wine.desktop;
+application/json=org.xfce.mousepad.desktop;wine-extension-txt.desktop;
+image/png=krita_png.desktop;org.xfce.ristretto.desktop;imv.desktop;imv-folder.desktop;mirage.desktop;feh.desktop;
+image/jpeg=krita_jpeg.desktop;shotwell-viewer.desktop;imv.desktop;imv-folder.desktop;org.xfce.ristretto.desktop;
+inode/directory=thunar.desktop;
